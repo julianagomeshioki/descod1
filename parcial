@@ -18,6 +18,7 @@
 <h4> Endereço do consultório: Rua Major Francisco de Paula Elias, 227, Jd São Dimas.</h4>
 <H3>Local</H3>
 <html lang="pt-BR">
+    Imagens de pessoas em terapia </label>
 
 <img src="pct compras.jpg" alt="width=60 height=40">
 
@@ -45,10 +46,9 @@
 
 </form>
 </pre>
-<audio autoplay="autoplay" controls="controls">
-
-    <source src="som.mp3" type="audio/mp3" />
 
 
+
+<tfoot>Criado por Juliana Gomes Hioki</tfoot>
 
 </body
