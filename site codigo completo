@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juliana Gomes Hioki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <style>
+
+        p {
+        
+        text-align: center;
+        
+        font-size: 16px;
+        
+        color: rgb(3, 58, 3);
+
+        font-family: Arial, Helvetica, sans-serif;
+        
+        }
+        
+        </style>
+
+<style>h3 {
+    
+    text-align: center;
+    
+    font-size: 34px;
+    
+    color: rgb(3, 58, 3);
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+</style>
+
+
+
+<style>body {
+
+background-color: rgb(196, 131, 56);
+
+}
+
+</style>
+
+<style> form
+
+{text-align: left;
+    
+    font-size: 30px;
+    
+    color: black
+
+    font-family: Arial, Helvetica, sans-serif;}
+
+    
+
+
+</style>
+
+
+
+    <center><img src="logotransparente.png" alt= "some text" width=400 ></center>
+
+
+<pre>
+
+
+
+<p>Terapeuta Ocupacional com 15 anos de experiência em atendimentos de todas as faixas etárias, com foco no desenvolvimento respeitoso de habilidades de vida.</p>
+<h3>Atendimentos em São José dos Campos - SP</h3>
+
+</pre>
+
+<pre>Imagens de pessoas em terapia </label>
+ <container>
+    <img src="pct compras.jpg" alt= "some text"width=200 height="150" > <img src="com crianca.jpg" alt= "some text"width=200 height="150" > <img src="pct tartaruga.jpg" alt="some texte " width=200 height="150">
+
+ </container></pre>
+
+
+
+ <pre>
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/puX0_SOly8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+ </pre>
+
+
+
+
+
+    
+    <center><H3>Local</H3>
+
+<h4>Rua Major Francisco de Paula Elias, 227. Jd. São Dimas. São José dos Campos - SP</h4></center>
+
+<div>
+    
+    <center><LInk><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7334.592164006748!2d-45.890833!3d-23.195878!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4a6c626950a9%3A0xb72c283eb0da2d1e!2sR.%20Maj.%20Francisco%20de%20Paula%20Elias%2C%20227%20-%20Vila%20Adyana%2C%20S%C3%A3o%20Jos%C3%A9%20dos%20Campos%20-%20SP%2C%2012245-320%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1687294352126!5m2!1spt-BR!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></LInk>
+    </center>
+</div>
+<center>
+    <pre>
+    <h3>Deixe seu contato e lhe retornaremos:</h3>
+    <form>
+    <input type="text" name="nome" placeholder="Digite seu Nome aqui">
+    <input type="e-mail" name="email" placeholder="Digite seu e-mail">
+    Quer receber nossas novidades?:</label>
+    <input name="tarefa" type="radio" value="sim"> SIM
+    <input name="tarefa" type="radio" value="não"> NÃO
+    <input type="submit" value="Enviar"> 
+    </form> </pre></center>
+ <input type="button" onclick="funcao1()" value="Exibir Alerta" />
+    <script>
+        function funcao1()
+        {
+        alert("Seja bem vindo");
+        }
+        </script>           
+
+<tfoot>Criado por Juliana Gomes Hioki</tfoot>
+
+</body
